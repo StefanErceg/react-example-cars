@@ -1,0 +1,23 @@
+.main-item-wrap {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 20vw;
+}
+
+.car-img-wrap {
+	width: 250px;
+	height: 250px;
+}
+
+.car-img {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+.car-info {
+	align-items: center;
+	justify-content: space-between;
+	display: flex;
+}

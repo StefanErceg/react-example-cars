@@ -1,0 +1,26 @@
+.header-wrap {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 100px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	background: #333a4148;
+}
+
+.name-wrap {
+	padding-left: 30px;
+}
+
+.name {
+	margin: 0;
+	font-size: 46px;
+	font-style: italic;
+}
+
+.logos {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-right: 30px;
+}
