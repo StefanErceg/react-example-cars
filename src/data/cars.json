@@ -1,42 +1,74 @@
 [
 	{
 		"id": 1,
-		"name": "Bmw e39 530i",
-		"manufacturer": "Bmw",
+		"name": "BMW e39 530i",
+		"manufacturer": "BMW",
 		"model": "e39 530i",
-		"engine": "3.0 I6",
+		"engine": "3.0 I6 petrol",
 		"image": "/images/bmw-e39.jpg"
 	},
 	{
 		"id": 2,
-		"name": "Bmw e34 525i",
-		"manufacturer": "Bmw",
+		"name": "BMW e34 525i",
+		"manufacturer": "BMW",
 		"model": "e34 525i",
-		"engine": "2.5 I6",
+		"engine": "2.5 I6 petrol",
 		"image": "/images/bmw-e34.jpg"
 	},
 	{
 		"id": 3,
-		"name": "Mercedes w210 e270 cdi",
-		"manufacturer": "Mercedes",
+		"name": "Mercedes-Benz w210 e270 cdi",
+		"manufacturer": "Mercedes-Benz",
 		"model": "w210 e270 cdi",
-		"engine": "2.7 V6",
+		"engine": "2.7 V6 turbodiesel",
 		"image": "/images/mercedes-w210.jpg"
 	},
 	{
 		"id": 4,
-		"name": "Audi A6 2.4",
-		"manufacturer": "Audi",
-		"model": "A6 C5 2.4",
-		"engine": "2.4 V6",
-		"image": "/images/audi-c5.jpg"
+		"name": "Mercedes-Benz w124 250D",
+		"manufacturer": "Mercedes-Benz",
+		"model": "w124 250D",
+		"engine": "2.5 I5 turbodiesel",
+		"image": "/images/mercedes-w124.jpg"
 	},
 	{
 		"id": 5,
-		"name": "VW Golf 2 GTi",
+		"name": "Audi A8 4.2 quattro",
+		"manufacturer": "Audi",
+		"model": "A8 D2",
+		"engine": "4.2 V8 petrol",
+		"image": "/images/audi-d2.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Audi A6 2.4",
+		"manufacturer": "Audi",
+		"model": "A6 C5 2.4",
+		"engine": "2.4 V6 petrol",
+		"image": "/images/audi-c5.jpg"
+	},
+	{
+		"id": 7,
+		"name": "VW Golf 2 G60",
 		"manufacturer": "Volkswagen",
-		"model": "Golf GTi",
-		"engine": "1.8 I4",
+		"model": "Golf G60",
+		"engine": "1.8 I4 petrol",
 		"image": "/images/vw-golf-g60.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Ford Focus mk2 ST",
+		"manufacturer": "Ford",
+		"model": "Focus",
+		"engine": "2.5 I5 turbo petrol",
+		"image": "/images/ford-focus-st.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Opel Astra H OPC",
+		"manufacturer": "Opel",
+		"model": "Astra OPC",
+		"engine": "2.0 I4 turbo petrol",
+		"image": "/images/opel-astra-h-opc.jpg"
 	}
 ]

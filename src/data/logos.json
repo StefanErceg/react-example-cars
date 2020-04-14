@@ -1,32 +1,32 @@
 [
 	{
 		"id": 1,
-		"name": "bmw",
+		"name": "BMW",
 		"img": "/logos/bmw-logo.png"
 	},
 	{
 		"id": 2,
-		"name": "mercedes",
+		"name": "Mercedes-Benz",
 		"img": "/logos/mercedes-logo.png"
 	},
 	{
 		"id": 3,
-		"name": "audi",
+		"name": "Audi",
 		"img": "/logos/audi-logo.png"
 	},
 	{
 		"id": 4,
-		"name": "volkswagen",
+		"name": "Volkswagen",
 		"img": "/logos/vw-logo.png"
 	},
 	{
 		"id": 5,
-		"name": "ford",
+		"name": "Ford",
 		"img": "/logos/ford-logo.png"
 	},
 	{
 		"id": 6,
-		"name": "opel",
+		"name": "Opel",
 		"img": "/logos/opel-logo.png"
 	}
 ]
